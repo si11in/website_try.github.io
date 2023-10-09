@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Web3 from "web3";
 
 function App() {
   return (
@@ -16,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello world!!
+          Learn React
         </a>
       </header>
     </div>
